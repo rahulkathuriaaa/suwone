@@ -20,7 +20,7 @@ export default function Navbar() {
         //     <Sign />
         // </div>
         <div style={styles.container} className="bg-black">
-            <p className="text-xs sm:text-xs">BUY 5 GET 15% OFF</p>
+            <p className="text-xs sm:text-xs">BUY 5 GET 15&#x00025; OFF</p>
         </div>
     )
 }
